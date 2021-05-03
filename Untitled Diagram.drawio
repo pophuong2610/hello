@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T16:24:20.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-V-uDthvcREG7iNHRU4-" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-03T16:25:24.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-dhRtv_JScXW816SSEA3" version="14.6.9" type="github" pages="2">
   <diagram id="IDKHyacnDfCnakZO-BiC" name="user">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -227,6 +227,15 @@
             <mxPoint x="591" y="330" as="sourcePoint" />
             <mxPoint x="700" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbORLw16BzW8U07cPi3-8" value="" style="endArrow=none;html=1;exitX=1.026;exitY=0.464;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.056;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AHUAUrbn2qdXQ1BKZ7xm-1" source="q0q16ZGH-iIZusizeGe_-0" target="q0q16ZGH-iIZusizeGe_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="400" as="sourcePoint" />
+            <mxPoint x="160" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbORLw16BzW8U07cPi3-9" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Người dùng&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="AHUAUrbn2qdXQ1BKZ7xm-1">
+          <mxGeometry y="445" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
