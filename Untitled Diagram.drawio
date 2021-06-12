@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T14:46:48.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.6.11" etag="PmTJh-Pw4ohy84Mg_NyR" type="github"><diagram id="YbRcGkndomWaWg8Y1sZB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-12T14:49:31.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="S3fgbvTTDTX03DyoWtjE" version="14.6.11" type="github">
+  <diagram id="YbRcGkndomWaWg8Y1sZB" name="Page-1">
+    <mxGraphModel dx="1024" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ygz5lh-Ki10cPDYGR-9n-1" value="Giấu tin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ygz5lh-Ki10cPDYGR-9n-2" value="Giấu tin mật" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ygz5lh-Ki10cPDYGR-9n-3" value="Thủy vân số" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ygz5lh-Ki10cPDYGR-9n-4" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="sourcePoint" />
+            <mxPoint x="580" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ygz5lh-Ki10cPDYGR-9n-5" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ygz5lh-Ki10cPDYGR-9n-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ygz5lh-Ki10cPDYGR-9n-6" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ygz5lh-Ki10cPDYGR-9n-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ygz5lh-Ki10cPDYGR-9n-7" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ygz5lh-Ki10cPDYGR-9n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
