@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T10:44:03.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="r_zdQ8J1NtO6raCL3e3Z" version="14.7.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-13T10:44:32.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5ffbFH1CwBrfDdYOgeQ0" version="14.7.7" type="github" pages="6">
   <diagram id="YbRcGkndomWaWg8Y1sZB" name="Page-1">
     <mxGraphModel dx="1024" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
         <mxCell id="h0zqu6VNZQI45QMZKr-g-0" value="Dữ liệu" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontFamily=Times New Roman;fontSize=18;strokeColor=#3333FF;fontStyle=1;fontColor=#3399FF;strokeWidth=2;" vertex="1" parent="vH37it5VEI-MkULs6yaw-1">
           <mxGeometry x="960" y="270" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="h0zqu6VNZQI45QMZKr-g-1" value="Khóa" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=18;fontStyle=1;dashed=1;" vertex="1" parent="vH37it5VEI-MkULs6yaw-1">
+        <mxCell id="h0zqu6VNZQI45QMZKr-g-1" value="Khóa" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=18;fontStyle=1;dashed=1;strokeColor=#007FFF;" vertex="1" parent="vH37it5VEI-MkULs6yaw-1">
           <mxGeometry x="762" y="30" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0zqu6VNZQI45QMZKr-g-2" value="Duyệt từng điểm ảnh" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#3333FF;fontStyle=1;fontColor=#3399FF;" vertex="1" parent="vH37it5VEI-MkULs6yaw-1">
