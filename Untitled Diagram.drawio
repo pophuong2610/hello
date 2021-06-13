@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T03:39:58.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="8ujSkYKSYkvFOEzxa3N4" version="14.7.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-13T03:40:08.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="06BKkiQU27bKdUhI8Lgx" version="14.7.7" type="github" pages="4">
   <diagram id="YbRcGkndomWaWg8Y1sZB" name="Page-1">
     <mxGraphModel dx="1024" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0zqu6VNZQI45QMZKr-g-3" value="Ảnh chứa tin" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;strokeColor=#3333FF;fontFamily=Times New Roman;fontSize=18;fontStyle=1;fontColor=#3399FF;strokeWidth=2;" vertex="1" parent="vH37it5VEI-MkULs6yaw-1">
-          <mxGeometry x="20" y="180" width="100" height="70" as="geometry" />
+          <mxGeometry x="40" y="180" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="h0zqu6VNZQI45QMZKr-g-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fontFamily=Times New Roman;fontSize=18;fontStyle=1;fontColor=#3399FF;strokeWidth=2;" edge="1" parent="vH37it5VEI-MkULs6yaw-1" source="h0zqu6VNZQI45QMZKr-g-5" target="h0zqu6VNZQI45QMZKr-g-7">
           <mxGeometry relative="1" as="geometry" />
